@@ -1,0 +1,47 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Base de données (données de test locales)
+/vector_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Documentation de développement (ne pas publier sur Git)
+doc1.md
+README_FIRST.md
+DOCUMENTATION_SUMMARY.md
+PUBLISH_GUIDE.md
+vectorDB.txt
+test_ivf.py
+start_server.bat
+python_client.py
