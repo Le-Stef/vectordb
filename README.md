@@ -1,7 +1,7 @@
 # VectorDB Rust
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Rust](https://img.shields.io/badge/rust-1.70%2B-blue.svg)](https://www.rust-lang.org)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Rust](https://img.shields.io/badge/Rust-1.70+-orange?logo=rust)](https://rust-lang.org/fr/)
 
 > Base de données vectorielle haute performance en Rust avec index IVF et API REST
 
@@ -229,22 +229,10 @@ vectordb-rust/
 └── requirements.txt      # Dépendances Python
 ```
 
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- Ouvrir une issue pour signaler un bug
-- Proposer une pull request pour une amélioration
-- Partager vos cas d'usage
 
 ## Licence
 
-MIT License - voir le fichier [LICENSE](LICENSE)
-
-## Remerciements
-
-- Inspiré par ChromaDB
-- Algorithme K-means++ pour l'initialisation des centroids
-- Index IVF (Inverted File Index) pour la recherche approximative
+Licence Apache 2.0 - voir le fichier [LICENSE](LICENSE)
 
 ---
 
